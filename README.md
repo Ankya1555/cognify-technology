@@ -1,0 +1,2 @@
+# cognify-technology
+internship task 
