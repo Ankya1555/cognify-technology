@@ -1,2 +1,1 @@
-# cognify-technology
-internship task 
+# landing-page-for-a-web-developer-internship
